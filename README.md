@@ -1,4 +1,4 @@
-# Telco Churn Prediction API
+Churn Prediction API
 
 This is a production-ready machine learning API that predicts customer churn using the Telco dataset. It includes data preprocessing, model training, and deployment using Flask and Docker. The API is deployed via Render and supports CI/CD via GitHub Actions.
 
